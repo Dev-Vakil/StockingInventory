@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/BorrowItems"
+            android:title="@string/borrow_items"
+            android:icon="@drawable/ic_baseline_touch_app_24" />
+        <item
+            android:id="@+id/InsertDelete"
+            android:title="@string/insert_delete"
+            android:icon="@drawable/ic_baseline_touch_app_24" />
+        <item
+            android:id="@+id/AddDepartment"
+            android:title="@string/add_department"
+            android:icon="@drawable/ic_baseline_touch_app_24" />
+        <item
+            android:id="@+id/AddDepartmentList"
+            android:title="@string/department_list"
+            android:icon="@drawable/ic_baseline_touch_app_24" />
+        <item
+            android:id="@+id/UpdateItems"
+            android:title="@string/update_items"
+            android:icon="@drawable/ic_baseline_touch_app_24" />
+        <item
+            android:id="@+id/item_list"
+            android:title="@string/item_list"
+            android:icon="@drawable/ic_baseline_touch_app_24" />
+    </group>
+</menu>

@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Stocking Inventory</string>
+    <string name="navigation_draw_open">open navigation drawer</string>
+    <string name="navigation_draw_close">close navigation drawer</string>
+    <string name="name">Name:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="due_date">Due Date:</string>
+    <string name="set_date">Set Date</string>
+    <string name="amount">Amount:</string>
+    <string name="item">Item:</string>
+    <string name="reason">Reason:</string>
+    <string name="enter_amount_to_be_borrowed">Enter amount to be borrowed</string>
+    <string name="why_borrow_the_item">Why borrow the item?</string>
+    <string name="add_department">Add Department</string>
+    <string name="department">Department:</string>
+    <string name="info">Info:</string>
+    <string name="submit">Submit</string>
+    <string name="borrow_items">Borrow Items</string>
+    <string name="insert_delete">Insert Delete</string>
+    <string name="update_items">Update Items</string>
+    <string name="department_list">Department List</string>
+    <string name="department_info">Department Info</string>
+    <string name="delete">Delete</string>
+    <string name="item_list">Item List</string>
+
+</resources>
